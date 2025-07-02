@@ -13,7 +13,7 @@ bot.command("start", async (ctx) => {
     inline_keyboard: [
       [{ text: "🔘 Start Playing 🕹", web_app: { url: "https://koicoingame.vercel.app" } }],  // 게임 링크 수정
       // [{ text: "🔘 Follow on X 🐦", url: "https://x.com/Judo_Shiba" }],
-      [{ text: "🔘 Join the Pond 🐡", url: "https://t.me/KoiCoinOfficial" }],
+      [{ text: "🔘 Join the Pond 🐡", url: "https://t.me/KoiCoinXYZ_Chat" }],
       // [{ text: "🔘 Visit Website 🌐", url: "https://www.karateinu.xyz" }],
       // [{ text: "🔘 Read Master book 📖", url: "https://www.karateinu.xyz" }],
     ],
